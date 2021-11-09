@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,463 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 25
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 26
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 30
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 32
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 33
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 34
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 35
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 36
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 37
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 38
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 39
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 40
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 41
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 42
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 43
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 44
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 45
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 46
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 47
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 48
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 49
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 50
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 51
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 52
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 53
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 54
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 55
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 56
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 57
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 58
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 59
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 60
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 61
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 62
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 63
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 64
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 65
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 66
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 67
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 68
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 69
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 70
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 71
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 72
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 73
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 74
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 75
+    },
+    {
+      "id": 76
+    },
+    {
+      "name": "frank",
+      "email": "frank@gmail.com",
+      "id": 77
+    },
+    {
+      "name": "Frank",
+      "email": "Frank@gmail.coim",
+      "id": 78
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 79
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 80
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 81
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 82
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 83
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 84
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 85
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 86
+    },
+    {
+      "id": 87
+    },
+    {
+      "id": 88
+    },
+    {
+      "id": 89
+    },
+    {
+      "id": 90
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 91
+    },
+    {
+      "name": "Frank Reynolds",
+      "email": "ongo@gmail.com",
+      "id": 92
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
